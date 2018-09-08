@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 13 09:34:50 EDT 2018
+0.baseType=DIRECTORY
+0.base=/home/edexworld/Sujit/ds/PA3/SimpleDht-SUJITJIT/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

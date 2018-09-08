@@ -1,0 +1,4 @@
+#Fri Apr 13 09:34:50 EDT 2018
+base.0=/home/edexworld/Sujit/ds/PA3/SimpleDht-SUJITJIT/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
